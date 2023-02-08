@@ -3,8 +3,8 @@ PhenoApp
 ==========================
 
 PhenoApp is a python script for creating seasonal NDVI compositions
-gifs. This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses `Google Earth Engine
-API <https://github.com/google/earthengine-api>`_to show phenological satellite data in some eLTER sites. The other buttons will be focused in
+gifs. This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses _Google Earth Engine
+API <https://github.com/google/earthengine-api> to show phenological satellite data in some eLTER sites. The other buttons will be focused in
 flooding and Land Surface temperature.
 
 This repo is kind of a prelease of that future GeeLterMap package to present PhenoApp tool in the eLTER software tools Workshop helded at Lyon from 7-9 febraury 2023.
@@ -17,7 +17,7 @@ Available datasets are:
 * MODIS MCD12Q2.006. Land Cover Dynamics Yearly Global 500m | 20011 - Present
 * Sentinel 2 L2A Phenopy | 2017 - Present 
 
-MODIS is the only product availabe as a collection in GEE. HRVPP products are downloaded viw HDA python through `Wekeo web site <https://www.wekeo.eu/data?view=catalogue&initial=1>`.
+MODIS is the only product availabe as a collection in GEE. HRVPP products are downloaded viw HDA python through _Wekeo web site <https://www.wekeo.eu/data?view=catalogue&initial=1>.
 Phenopy collection is self generated with Phenopy and ndvi2gif python packages.
 
  
