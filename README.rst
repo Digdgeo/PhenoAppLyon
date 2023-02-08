@@ -3,8 +3,8 @@ PhenoApp
 ==========================
 
 PhenoApp is a python script for creating seasonal NDVI compositions
-gifs. This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses _Google Earth Engine
-API <https://github.com/google/earthengine-api> to show phenological satellite data in some eLTER sites. The other buttons will be focused in
+gifs. This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses `_Google Earth Engine
+API <https://github.com/google/earthengine-api>`_ to show phenological satellite data in some eLTER sites. The other buttons will be focused in
 flooding and Land Surface temperature.
 
 This repo is kind of a prelease of that future GeeLterMap package to present PhenoApp tool in the eLTER software tools Workshop helded at Lyon from 7-9 febraury 2023.
