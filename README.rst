@@ -27,11 +27,11 @@ Prerequisites
 
 Please, register an account (free and very fast creation process) in the next links:
 
-Wekeo:https://my.wekeo.eu/web/guest/user-registration
+Wekeo: https://my.wekeo.eu/web/guest/user-registration
 
-QField Cloud:https://app.qfield.cloud/accounts/signup
+QField Cloud: https://app.qfield.cloud/accounts/signup
 
-Googe Earth Engine:https://signup.earthengine.google.com/#!
+Googe Earth Engine: https://signup.earthengine.google.com/#!
 
  
 
