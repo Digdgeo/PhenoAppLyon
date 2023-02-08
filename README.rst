@@ -20,6 +20,19 @@ Available datasets are:
 MODIS is the only product availabe as a collection in GEE. HRVPP products are downloaded viw HDA python through `Wekeo web site <https://www.wekeo.eu/data?view=catalogue&initial=1>`_.
 Phenopy collection is self generated with Phenopy and ndvi2gif python packages.
 
+
+Prerequisites
+============
+
+
+Please, register an account (free and very fast creation process) in the next links:
+
+`Wekeo <https://my.wekeo.eu/web/guest/user-registration>`_.
+
+_`QField Cloud <https://app.qfield.cloud/accounts/signup/>`_.
+
+_`Googe Earth Engine <https://signup.earthengine.google.com/#!/>`_
+
  
 
 Installation
