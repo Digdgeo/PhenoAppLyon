@@ -2,7 +2,8 @@
 PhenoApp
 ==========================
 
-PhenoApp is a python script to show and check phenometrics derived from satellite imagery to some eLTER sites. This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses `Google Earth Engine
+PhenoApp is a python script to show and check phenometrics derived from satellite imagery to some eLTER sites. It also allows the upload of phenological ground data since we are interested in the validation of these satellite datasets. 
+This is one of the 3 buttons that conform the future Python Package GeeLterMap. A Geemap based tool that uses `Google Earth Engine
 API <https://github.com/google/earthengine-api>`_ to show phenological satellite data in some eLTER sites. The other buttons will be focused in
 flooding and Land Surface temperature.
 
